@@ -37,6 +37,8 @@ ConvertirMoneda.java
 
 Procesa las conversiones y muestra los resultados al usuario.
 
+
+
 🧠 ¿Cómo funciona?
 
 El usuario selecciona una opción del menú.
@@ -59,9 +61,12 @@ IntelliJ IDEA (desarrollo)
 
 Maven para la gestión del proyecto
 
+
+
 🌎 API utilizada
 
 Este proyecto utiliza la API “ExchangeRate API v6”.
+
 
 🙌 Autor
 
