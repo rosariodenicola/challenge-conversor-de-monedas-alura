@@ -27,7 +27,7 @@ public class ConsultarMoneda {
                     cliente.send(request, HttpResponse.BodyHandlers.ofString());
 
             System.out.println("JSON recibido:");
-            System.out.println(response.body());
+            //System.out.println(response.body());
 
             JsonObject json = new Gson().fromJson(response.body(), JsonObject.class);
 
